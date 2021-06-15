@@ -1,0 +1,4 @@
+Olá aqui é Adirano Oliveira.
+
+Assista o vídeo e crie um banco de dados e exporte a tabela.
+
